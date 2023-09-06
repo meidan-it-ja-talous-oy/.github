@@ -1,0 +1,2 @@
+# .github
+Meita github säännöt
