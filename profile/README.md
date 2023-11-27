@@ -10,6 +10,6 @@ Nimeä ropositoryn nimen mukaan:
 - Docker image
 - Cloudbuild trigger
 
-Wordpress plugin: wp-plugin-meita-plugininnimi
-Wordpress theme: wp-theme-meita-basetwo
-Microservice: ms-microservisenimi
+- Wordpress plugin: wp-plugin-meita-plugininnimi
+- Wordpress theme: wp-theme-meita-basetwo
+- Microservice: ms-microservisenimi
